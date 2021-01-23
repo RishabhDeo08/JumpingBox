@@ -8,7 +8,7 @@ function preload() {
 
 
 function setup() {
-    canvas = createCanvas(800, 600);
+    canvas = createCanvas(800, 800);
     //create 4 different surfaces
     box1 = createSprite(80, 580, 100, 10)
     box2 = createSprite(250, 580, 100, 10)
